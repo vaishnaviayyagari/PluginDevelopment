@@ -1,0 +1,19 @@
+{
+    "name": "vishnu/vaishnavi-plugin",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "vaishnaviAnupindi",
+            "email": "nagavaishnavi.anupindi@apoorva.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
